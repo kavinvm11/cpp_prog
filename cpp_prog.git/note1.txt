@@ -1,0 +1,9 @@
+omission 1
+  std::string cars[] = {"volvo","tesla","ford"};
+omission 2
+  int num_arr[3];
+  num_arr[0] = 3
+  num_arr[1] = 4
+  num_arr[2] = 6
+*arrays are of fixed size
+*vectors (resizable arrays)are of dynamic size
